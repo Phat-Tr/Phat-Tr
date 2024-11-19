@@ -17,13 +17,9 @@
 
 ## Most Used Languages
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phat-Tr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phat-Tr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="35%" />
 </div>
 
-## Contribution Graph
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phat-Tr&theme=dark" alt="Contribution Graph" width="55%" />
-</div>
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phat-tr&label=Profile%20views&color=0e75b6&style=flat" alt="phat-tr" /> </p>
