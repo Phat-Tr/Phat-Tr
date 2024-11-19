@@ -8,11 +8,11 @@
 
 ## Overview
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phat-Tr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Phat-Tr&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="50%" />
 </div>
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phat-Tr&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phat-Tr&theme=dark&hide_border=false" alt="GitHub Streak" width="50%" />
 </div>
 
 ## Most Used Languages
@@ -22,7 +22,7 @@
 
 ## Contribution Graph
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phat-Tr&theme=tokyo-night" alt="Contribution Graph" width="55%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phat-Tr&theme=dark" alt="Contribution Graph" width="55%" />
 </div>
 
 <hr>
