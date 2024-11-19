@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Phat's github</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phat-tr&label=Profile%20views&color=0e75b6&style=flat" alt="phat-tr" /> </p>
+
 
 
 
