@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Phat's github</h1>
+<h1 align="center">Hello friend</h1>
 
 
 
