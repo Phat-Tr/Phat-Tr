@@ -7,6 +7,11 @@
 
 
 ## Overview
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=csharp,cpp,py,git,docker,c,neovim" />
+  </a>
+</p>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Phat-Tr&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="50%" />
 </div>
