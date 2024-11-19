@@ -22,7 +22,7 @@
 
 ## Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phat-Tr&theme=tokyo-night" alt="Contribution Graph" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phat-Tr&theme=tokyo-night" alt="Contribution Graph" width="85%" />
 </div>
 
 
