@@ -24,7 +24,7 @@
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phat-Tr&theme=tokyo-night" alt="Contribution Graph" width="65%" />
 </div>
-
+##
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phat-tr&label=Profile%20views&color=0e75b6&style=flat" alt="phat-tr" /> </p>
 </div>
