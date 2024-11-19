@@ -9,7 +9,7 @@
 ## Overview
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csharp,cpp,py,git,docker,c,neovim" />
+    <img src="https://skillicons.dev/icons?i=csharp,android,cpp,py,git,docker,c,neovim" />
   </a>
 </p>
 <div align="left">
